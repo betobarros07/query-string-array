@@ -5,7 +5,7 @@ using System.ComponentModel;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace CustomAttributes.QueryStringArray
+namespace O7.QueryStringArray
 {
     public class QueryStringArrayBinder : IModelBinder
     {
