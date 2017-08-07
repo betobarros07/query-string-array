@@ -7,8 +7,15 @@ using System.Threading.Tasks;
 
 namespace O7.QueryStringArray
 {
+    /// <summary>
+    /// QueryStringArrayBinder allow you to receive an array in your query string.
+    /// </summary>
     public class QueryStringArrayBinder : IModelBinder
     {
+        /// <summary>
+        /// Implemented method from IModelBinder interface.
+        /// </summary>
+        /// <param name="bindingContext">The Microsoft.AspNetCore.Mvc.ModelBinding.ModelBindingContext.</param>
         public Task BindModelAsync(ModelBindingContext bindingContext)
         {
             var key = bindingContext.ModelName;
