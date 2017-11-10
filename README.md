@@ -1,8 +1,8 @@
 # QueryString Array Binder
 
-[![Build](https://travis-ci.org/BetoBarros07/query_string_array.svg)](https://travis-ci.org/BetoBarros07/query_string_array)
+[![Build](https://travis-ci.org/BetoBarros07/query-string-array.svg)](https://travis-ci.org/BetoBarros07/query-string-array)
 [![Nuget Version](http://img.shields.io/nuget/v/O7.QueryStringArray.svg)](http://www.nuget.org/packages/O7.QueryStringArray)
-[![Issues open](https://img.shields.io/github/issues/betobarros07/query_string_array.svg)](https://github.com/BetoBarros07/query_string_array/issues)
+[![Issues open](https://img.shields.io/github/issues/betobarros07/query-string-array.svg)](https://github.com/BetoBarros07/query-string-array/issues)
 [![Unlicense](https://img.shields.io/badge/license-unlicense-orange.svg)](LICENSE)
 
 QueryString Array is a library that allows you to implement an Array Binder for your QueryString Parameters in ASP.NET.
